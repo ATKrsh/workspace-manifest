@@ -1,0 +1,391 @@
+﻿{
+    "workspace":  "E:\\workspace",
+    "projects":  {
+                     "btabswitch":  {
+                                        "sourceFiles":  6,
+                                        "tech":  "Python",
+                                        "category":  "desktop-tools",
+                                        "repo":  "https://github.com/ATKrsh/btabswitch",
+                                        "localPath":  "desktop-tools\\btabswitch"
+                                    },
+                     "windowswitch":  {
+                                          "sourceFiles":  13,
+                                          "tech":  "Python",
+                                          "category":  "desktop-tools",
+                                          "repo":  "https://github.com/ATKrsh/windowswitch",
+                                          "localPath":  "desktop-tools\\windowswitch"
+                                      },
+                     "holaho":  {
+                                    "sourceFiles":  7,
+                                    "tech":  "Python",
+                                    "category":  "experiments",
+                                    "repo":  "https://github.com/ATKrsh/holaho",
+                                    "localPath":  "experiments\\holaho"
+                                },
+                     "docker-osx":  {
+                                        "sourceFiles":  58,
+                                        "tech":  "Docker",
+                                        "category":  "experiments",
+                                        "repo":  "https://github.com/ATKrsh/docker-osx",
+                                        "localPath":  "experiments\\docker-osx"
+                                    },
+                     "monkey-tracker":  {
+                                            "sourceFiles":  21,
+                                            "tech":  "Python",
+                                            "category":  "ai-ml",
+                                            "repo":  "https://github.com/ATKrsh/monkey-tracker",
+                                            "localPath":  "ai-ml\\monkey-tracker"
+                                        },
+                     "modern-task-manager":  {
+                                                 "sourceFiles":  21,
+                                                 "tech":  "Python",
+                                                 "category":  "web-apps",
+                                                 "repo":  "https://github.com/ATKrsh/modern-task-manager",
+                                                 "localPath":  "web-apps\\modern-task-manager"
+                                             },
+                     "aeterna":  {
+                                     "sourceFiles":  25,
+                                     "tech":  "NodeJS",
+                                     "category":  "web-apps",
+                                     "repo":  "https://github.com/ATKrsh/aeterna",
+                                     "localPath":  "web-apps\\aeterna"
+                                 },
+                     "branched_flow":  {
+                                           "sourceFiles":  85,
+                                           "tech":  "Python",
+                                           "category":  "ai-ml",
+                                           "repo":  "https://github.com/ATKrsh/branched_flow",
+                                           "localPath":  "ai-ml\\branched_flow"
+                                       },
+                     "KyaHaiYe":  {
+                                      "sourceFiles":  27,
+                                      "tech":  "NodeJS",
+                                      "category":  "web-apps",
+                                      "repo":  "https://github.com/ATKrsh/KyaHaiYe",
+                                      "localPath":  "web-apps\\KyaHaiYe"
+                                  },
+                     "captureME":  {
+                                       "sourceFiles":  104,
+                                       "tech":  "Python",
+                                       "category":  "media-tools",
+                                       "repo":  "https://github.com/ATKrsh/captureME",
+                                       "localPath":  "media-tools\\captureME"
+                                   },
+                     "oneX":  {
+                                  "sourceFiles":  170,
+                                  "tech":  "Unknown",
+                                  "category":  "experiments",
+                                  "repo":  "https://github.com/ATKrsh/oneX",
+                                  "localPath":  "experiments\\oneX"
+                              },
+                     "GAGQ":  {
+                                  "sourceFiles":  3,
+                                  "tech":  "Python",
+                                  "category":  "experiments",
+                                  "repo":  "https://github.com/ATKrsh/GAGQ",
+                                  "localPath":  "experiments\\GAGQ"
+                              },
+                     "Allme_Windows":  {
+                                           "sourceFiles":  25,
+                                           "tech":  "Python",
+                                           "category":  "desktop-tools",
+                                           "repo":  "https://github.com/ATKrsh/Allme_Windows",
+                                           "localPath":  "desktop-tools\\Allme_Windows"
+                                       },
+                     "drive_toggler":  {
+                                           "sourceFiles":  4,
+                                           "tech":  "Python",
+                                           "category":  "desktop-tools",
+                                           "repo":  "https://github.com/ATKrsh/drive_toggler",
+                                           "localPath":  "desktop-tools\\drive_toggler"
+                                       },
+                     "atk-antigravity-live-progress":  {
+                                                           "sourceFiles":  6,
+                                                           "tech":  "NodeJS",
+                                                           "category":  "plugins-extensions",
+                                                           "repo":  "https://github.com/ATKrsh/atk-antigravity-live-progress",
+                                                           "localPath":  "plugins-extensions\\atk-antigravity-live-progress"
+                                                       },
+                     "speakup":  {
+                                     "sourceFiles":  17,
+                                     "tech":  "Python",
+                                     "category":  "media-tools",
+                                     "repo":  "https://github.com/ATKrsh/speakup",
+                                     "localPath":  "media-tools\\speakup"
+                                 },
+                     "atk_video_ai_organizer":  {
+                                                    "sourceFiles":  95,
+                                                    "tech":  "Python",
+                                                    "category":  "media-tools",
+                                                    "repo":  "https://github.com/ATKrsh/atk_video_ai_organizer",
+                                                    "localPath":  "media-tools\\atk_video_ai_organizer"
+                                                },
+                     "KaunHaiBe":  {
+                                       "sourceFiles":  25,
+                                       "tech":  "Python",
+                                       "category":  "web-apps",
+                                       "repo":  "https://github.com/ATKrsh/KaunHaiBe",
+                                       "localPath":  "web-apps\\KaunHaiBe"
+                                   },
+                     "tthg":  {
+                                  "sourceFiles":  65,
+                                  "tech":  "Python",
+                                  "category":  "ai-ml",
+                                  "repo":  "https://github.com/ATKrsh/tthg",
+                                  "localPath":  "ai-ml\\tthg"
+                              },
+                     "mefresh":  {
+                                     "sourceFiles":  38,
+                                     "tech":  "Python",
+                                     "category":  "desktop-tools",
+                                     "repo":  "https://github.com/ATKrsh/mefresh",
+                                     "localPath":  "desktop-tools\\mefresh"
+                                 },
+                     "flipme":  {
+                                    "sourceFiles":  11,
+                                    "tech":  "Python",
+                                    "category":  "desktop-tools",
+                                    "repo":  "https://github.com/ATKrsh/flipme",
+                                    "localPath":  "desktop-tools\\flipme"
+                                },
+                     "ComicToVideo":  {
+                                          "sourceFiles":  10,
+                                          "tech":  "Python",
+                                          "category":  "media-tools",
+                                          "repo":  "https://github.com/ATKrsh/ComicToVideo",
+                                          "localPath":  "media-tools\\ComicToVideo"
+                                      },
+                     "getTag":  {
+                                    "sourceFiles":  29,
+                                    "tech":  "NodeJS",
+                                    "category":  "media-tools",
+                                    "repo":  "https://github.com/ATKrsh/getTag",
+                                    "localPath":  "media-tools\\getTag"
+                                },
+                     "offme":  {
+                                   "sourceFiles":  10,
+                                   "tech":  "Python",
+                                   "category":  "desktop-tools",
+                                   "repo":  "https://github.com/ATKrsh/offme",
+                                   "localPath":  "desktop-tools\\offme"
+                               },
+                     "waterways":  {
+                                       "sourceFiles":  10,
+                                       "tech":  "Python",
+                                       "category":  "ai-ml",
+                                       "repo":  "https://github.com/ATKrsh/waterways",
+                                       "localPath":  "ai-ml\\waterways"
+                                   },
+                     "iwrite":  {
+                                    "sourceFiles":  965,
+                                    "tech":  "Unknown",
+                                    "category":  "cross-platform",
+                                    "repo":  "https://github.com/ATKrsh/iwrite",
+                                    "localPath":  "cross-platform\\iwrite"
+                                },
+                     "system-monitors":  {
+                                             "sourceFiles":  38,
+                                             "tech":  "Python",
+                                             "category":  "web-apps",
+                                             "repo":  "https://github.com/ATKrsh/system-monitors",
+                                             "localPath":  "web-apps\\system-monitors"
+                                         },
+                     "tabswitch":  {
+                                       "sourceFiles":  9,
+                                       "tech":  "Python",
+                                       "category":  "desktop-tools",
+                                       "repo":  "https://github.com/ATKrsh/tabswitch",
+                                       "localPath":  "desktop-tools\\tabswitch"
+                                   },
+                     "FragMe":  {
+                                    "sourceFiles":  36,
+                                    "tech":  "NodeJS",
+                                    "category":  "media-tools",
+                                    "repo":  "https://github.com/ATKrsh/FragMe",
+                                    "localPath":  "media-tools\\FragMe"
+                                },
+                     "aeterna-backend":  {
+                                             "sourceFiles":  18,
+                                             "tech":  "Python",
+                                             "category":  "web-apps",
+                                             "repo":  "https://github.com/ATKrsh/aeterna-backend",
+                                             "localPath":  "web-apps\\aeterna-backend"
+                                         },
+                     "watchthis-electron":  {
+                                                "sourceFiles":  325,
+                                                "tech":  "NodeJS",
+                                                "category":  "media-tools",
+                                                "repo":  "https://github.com/ATKrsh/watchthis-electron",
+                                                "localPath":  "media-tools\\watchthis-electron"
+                                            },
+                     "pipe-3d-reconstruction":  {
+                                                    "sourceFiles":  28,
+                                                    "tech":  "Python",
+                                                    "category":  "ai-ml",
+                                                    "repo":  "https://github.com/ATKrsh/pipe-3d-reconstruction",
+                                                    "localPath":  "ai-ml\\pipe-3d-reconstruction"
+                                                },
+                     "net-widget":  {
+                                        "sourceFiles":  33,
+                                        "tech":  "Python",
+                                        "category":  "desktop-tools",
+                                        "repo":  "https://github.com/ATKrsh/net-widget",
+                                        "localPath":  "desktop-tools\\net-widget"
+                                    },
+                     "aswitch":  {
+                                     "sourceFiles":  4,
+                                     "tech":  "Python",
+                                     "category":  "desktop-tools",
+                                     "repo":  "https://github.com/ATKrsh/aswitch",
+                                     "localPath":  "desktop-tools\\aswitch"
+                                 },
+                     "AlphaOS":  {
+                                     "sourceFiles":  17,
+                                     "tech":  "ASM",
+                                     "category":  "experiments",
+                                     "repo":  "https://github.com/ATKrsh/AlphaOS",
+                                     "localPath":  "experiments\\AlphaOS"
+                                 },
+                     "getThumbs":  {
+                                       "sourceFiles":  34,
+                                       "tech":  "NodeJS",
+                                       "category":  "media-tools",
+                                       "repo":  "https://github.com/ATKrsh/getThumbs",
+                                       "localPath":  "media-tools\\getThumbs"
+                                   },
+                     "atklabs":  {
+                                     "sourceFiles":  2139,
+                                     "tech":  "NodeJS",
+                                     "category":  "web-apps",
+                                     "repo":  "https://github.com/ATKrsh/atklabs",
+                                     "localPath":  "web-apps\\atklabs"
+                                 },
+                     "getduplicates":  {
+                                           "sourceFiles":  30,
+                                           "tech":  "NodeJS",
+                                           "category":  "media-tools",
+                                           "repo":  "https://github.com/ATKrsh/getduplicates",
+                                           "localPath":  "media-tools\\getduplicates"
+                                       },
+                     "antigravity-credit-tracker-mcp":  {
+                                                            "sourceFiles":  3,
+                                                            "tech":  "NodeJS",
+                                                            "category":  "plugins-extensions",
+                                                            "repo":  "https://github.com/ATKrsh/antigravity-credit-tracker-mcp",
+                                                            "localPath":  "plugins-extensions\\antigravity-credit-tracker-mcp"
+                                                        },
+                     "WinCustomizer":  {
+                                           "sourceFiles":  18,
+                                           "tech":  "Python",
+                                           "category":  "desktop-tools",
+                                           "repo":  "https://github.com/ATKrsh/WinCustomizer",
+                                           "localPath":  "desktop-tools\\WinCustomizer"
+                                       },
+                     "whatisapp":  {
+                                       "sourceFiles":  252,
+                                       "tech":  "NodeJS",
+                                       "category":  "web-apps",
+                                       "repo":  "https://github.com/ATKrsh/whatisapp",
+                                       "localPath":  "web-apps\\whatisapp"
+                                   },
+                     "whatisx":  {
+                                     "sourceFiles":  20,
+                                     "tech":  "NodeJS",
+                                     "category":  "web-apps",
+                                     "repo":  "https://github.com/ATKrsh/whatisx",
+                                     "localPath":  "web-apps\\whatisx"
+                                 },
+                     "Allme":  {
+                                   "sourceFiles":  7,
+                                   "tech":  "Python",
+                                   "category":  "desktop-tools",
+                                   "repo":  "https://github.com/ATKrsh/Allme",
+                                   "localPath":  "desktop-tools\\Allme"
+                               },
+                     "dontknow":  {
+                                      "sourceFiles":  55,
+                                      "tech":  "Python",
+                                      "category":  "experiments",
+                                      "repo":  "https://github.com/ATKrsh/dontknow",
+                                      "localPath":  "experiments\\dontknow"
+                                  },
+                     "WMP_WheelSeek":  {
+                                           "sourceFiles":  5,
+                                           "tech":  "Python",
+                                           "category":  "desktop-tools",
+                                           "repo":  "https://github.com/ATKrsh/WMP_WheelSeek",
+                                           "localPath":  "desktop-tools\\WMP_WheelSeek"
+                                       },
+                     "HoverTranslator":  {
+                                             "sourceFiles":  7,
+                                             "tech":  "Python",
+                                             "category":  "desktop-tools",
+                                             "repo":  "https://github.com/ATKrsh/HoverTranslator",
+                                             "localPath":  "desktop-tools\\HoverTranslator"
+                                         },
+                     "quicktoggle":  {
+                                         "sourceFiles":  7,
+                                         "tech":  "Python",
+                                         "category":  "desktop-tools",
+                                         "repo":  "https://github.com/ATKrsh/quicktoggle",
+                                         "localPath":  "desktop-tools\\quicktoggle"
+                                     },
+                     "process_cleaner":  {
+                                             "sourceFiles":  7,
+                                             "tech":  "Python",
+                                             "category":  "desktop-tools",
+                                             "repo":  "https://github.com/ATKrsh/process_cleaner",
+                                             "localPath":  "desktop-tools\\process_cleaner"
+                                         },
+                     "Cdul_Windows":  {
+                                          "sourceFiles":  8,
+                                          "tech":  "Python",
+                                          "category":  "desktop-tools",
+                                          "repo":  "https://github.com/ATKrsh/Cdul_Windows",
+                                          "localPath":  "desktop-tools\\Cdul_Windows"
+                                      },
+                     "nomad_widget":  {
+                                          "sourceFiles":  4,
+                                          "tech":  "Python",
+                                          "category":  "web-apps",
+                                          "repo":  "https://github.com/ATKrsh/nomad_widget",
+                                          "localPath":  "web-apps\\nomad_widget"
+                                      },
+                     "dog-talk":  {
+                                      "sourceFiles":  644,
+                                      "tech":  "Unknown",
+                                      "category":  "cross-platform",
+                                      "repo":  "https://github.com/ATKrsh/dog-talk",
+                                      "localPath":  "cross-platform\\dog-talk"
+                                  },
+                     "watchthis":  {
+                                       "sourceFiles":  54,
+                                       "tech":  "NodeJS",
+                                       "category":  "media-tools",
+                                       "repo":  "https://github.com/ATKrsh/watchthis",
+                                       "localPath":  "media-tools\\watchthis"
+                                   },
+                     "winalter":  {
+                                      "sourceFiles":  29,
+                                      "tech":  "Python",
+                                      "category":  "desktop-tools",
+                                      "repo":  "https://github.com/ATKrsh/winalter",
+                                      "localPath":  "desktop-tools\\winalter"
+                                  }
+                 },
+    "generated":  "2026-09-02 15:30:35",
+    "owner":  "ATKrsh",
+    "structure":  [
+                      "desktop-tools",
+                      "web-apps",
+                      "ai-ml",
+                      "media-tools",
+                      "experiments",
+                      "cross-platform",
+                      "plugins-extensions",
+                      "_archive",
+                      "_workspace-scripts",
+                      "_root-builds",
+                      "_root-config"
+                  ]
+}
